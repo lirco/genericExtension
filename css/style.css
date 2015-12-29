@@ -1,0 +1,19 @@
+/*.right-inner-addon {*/
+  /*position: relative;*/
+/*}*/
+/*.right-inner-addon input {*/
+  /*padding-right: 30px;*/
+/*}*/
+/*.right-inner-addon i {*/
+  /*position: absolute;*/
+  /*right: 0px;*/
+  /*padding: 10px 12px;*/
+  /*pointer-events: none;*/
+  /*color: #080808;*/
+/*}*/
+
+.add-on .input-group-btn > .btn {
+  border-left-width:0;left:-2px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
